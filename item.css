@@ -1,0 +1,43 @@
+body {
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	background-color: BurlyWood;
+	background-image: url('http://www.chunoa.com/wp-content/uploads/2016/01/Wood-HD-Wallpaper-Best-Image-Beautiful-Picture.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 100px 0;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+}
+
+div {
+	margin: auto;
+	background-color: hsla(33, 67%, 58%, 0.79);
+	height: 750px;
+	width: 1000px;
+	padding: 30px 50px;
+}
+
+th {
+	font-size: 32px;
+	border-bottom-style: dotted;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	border-bottom-style: dotted;
+	border-size: 1px;
+}
+
+td.product {
+	text-align: center;
+}
+
+p {
+	text-align: auto;
+	text-decoration: none;
+	margin: auto;
+}

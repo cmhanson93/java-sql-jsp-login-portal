@@ -1,0 +1,31 @@
+body {
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-color: white;
+	background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: auto;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+
+div {
+	margin: auto;
+	height: 125px;
+	width: 500px;
+	background-color: hsla(150, 86%, 71%, 0.55);
+}
+
+table {
+	margin: auto;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	font-size: 24px;
+	border: 0px;
+}
